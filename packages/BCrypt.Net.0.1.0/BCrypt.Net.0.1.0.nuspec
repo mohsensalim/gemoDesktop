@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>BCrypt.Net</id>
+    <version>0.1.0</version>
+    <title>BCrypt.Net</title>
+    <authors>Vadim Chekan</authors>
+    <owners>Vadim Chekan</owners>
+    <licenseUrl>http://bcrypt.codeplex.com/license</licenseUrl>
+    <projectUrl>https://bitbucket.org/vadim/bcrypt.net</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Port of jBCrypt library to C#</description>
+    <summary>Port of jBCrypt library to C#</summary>
+    <tags>password encryption salt bcrypt</tags>
+  </metadata>
+</package>

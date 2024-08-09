@@ -1,0 +1,122 @@
+C:\Users\TAHA\Desktop\project gemo\gemov1\gemov1\bin\Debug\gemov1.exe.config
+C:\Users\TAHA\Desktop\project gemo\gemov1\gemov1\bin\Debug\gemov1.exe
+C:\Users\TAHA\Desktop\project gemo\gemov1\gemov1\bin\Debug\gemov1.pdb
+C:\Users\TAHA\Desktop\project gemo\gemov1\gemov1\bin\Debug\Guna.UI2.dll
+C:\Users\TAHA\Desktop\project gemo\gemov1\gemov1\obj\Debug\gemov1.csprojResolveAssemblyReference.cache
+C:\Users\TAHA\Desktop\project gemo\gemov1\gemov1\obj\Debug\gemov1.Form1.resources
+C:\Users\TAHA\Desktop\project gemo\gemov1\gemov1\obj\Debug\gemov1.Properties.Resources.resources
+C:\Users\TAHA\Desktop\project gemo\gemov1\gemov1\obj\Debug\gemov1.csproj.GenerateResource.Cache
+C:\Users\TAHA\Desktop\project gemo\gemov1\gemov1\obj\Debug\gemov1.exe
+C:\Users\TAHA\Desktop\project gemo\gemov1\gemov1\obj\Debug\gemov1.pdb
+C:\Users\TAHA\Desktop\project gemo\gemov1\gemov1\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\TAHA\Desktop\project gemo\gemov1\gemov1\bin\Debug\Interop.WMPLib.dll
+C:\Users\TAHA\Desktop\project gemo\gemov1\gemov1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\TAHA\Desktop\project gemo\gemov1\gemov1\obj\Debug\Interop.WMPLib.dll
+C:\Users\TAHA\Desktop\project gemo\gemov1\gemov1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\TAHA\Desktop\project gemo\gemov1\gemov1\obj\Debug\gemov1.csproj.ResolveComReference.cache
+C:\Users\TAHA\Desktop\project_gemo\gemov1\gemov1\bin\Debug\gemov1.exe.config
+C:\Users\TAHA\Desktop\project_gemo\gemov1\gemov1\obj\Debug\Interop.WMPLib.dll
+C:\Users\TAHA\Desktop\project_gemo\gemov1\gemov1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\TAHA\Desktop\project_gemo\gemov1\gemov1\obj\Debug\gemov1.csproj.ResolveComReference.cache
+C:\Users\TAHA\Desktop\project_gemo\gemov1\gemov1\obj\Debug\gemov1.exe
+C:\Users\TAHA\Desktop\project_gemo\gemov1\gemov1\obj\Debug\gemov1.pdb
+C:\Users\TAHA\Desktop\project_gemo\gemov1\gemov1\bin\Debug\gemov1.exe
+C:\Users\TAHA\Desktop\project_gemo\gemov1\gemov1\bin\Debug\gemov1.pdb
+C:\Users\TAHA\Desktop\project_gemo\gemov1\gemov1\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\TAHA\Desktop\project_gemo\gemov1\gemov1\bin\Debug\Guna.UI2.dll
+C:\Users\TAHA\Desktop\project_gemo\gemov1\gemov1\bin\Debug\Interop.WMPLib.dll
+C:\Users\TAHA\Desktop\project_gemo\gemov1\gemov1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\TAHA\Desktop\project_gemo\gemov1\gemov1\obj\Debug\gemov1.csprojResolveAssemblyReference.cache
+C:\Users\TAHA\Desktop\project_gemo\gemov1\gemov1\obj\Debug\gemov1.Form1.resources
+C:\Users\TAHA\Desktop\project_gemo\gemov1\gemov1\obj\Debug\gemov1.Properties.Resources.resources
+C:\Users\TAHA\Desktop\project_gemo\gemov1\gemov1\obj\Debug\gemov1.csproj.GenerateResource.Cache
+C:\Users\TAHA\Desktop\project_gemo\gemov1\gemov1\bin\Debug\MySql.Data.dll
+C:\Users\HP\Downloads\gemov1(1)\gemov1\gemov1\bin\Debug\gemov1.exe.config
+C:\Users\HP\Downloads\gemov1(1)\gemov1\gemov1\obj\Debug\Interop.WMPLib.dll
+C:\Users\HP\Downloads\gemov1(1)\gemov1\gemov1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\HP\Downloads\gemov1(1)\gemov1\gemov1\obj\Debug\gemov1.csproj.ResolveComReference.cache
+C:\Users\HP\Downloads\gemov1(1)\gemov1\gemov1\obj\Debug\gemov1.exe
+C:\Users\HP\Downloads\gemov1(1)\gemov1\gemov1\obj\Debug\gemov1.pdb
+C:\Users\HP\Downloads\gemov1(1)\gemov1\gemov1\obj\Debug\gemov1.csprojResolveAssemblyReference.cache
+C:\Users\HP\Downloads\gemov1(1)\gemov1\gemov1\obj\Debug\gemov1.Form1.resources
+C:\Users\HP\Downloads\gemov1(1)\gemov1\gemov1\obj\Debug\gemov1.Properties.Resources.resources
+C:\Users\HP\Downloads\gemov1(1)\gemov1\gemov1\obj\Debug\gemov1.csproj.GenerateResource.Cache
+C:\Users\HP\Downloads\gemov1(1)\gemov1\gemov1\bin\Debug\gemov1.exe
+C:\Users\HP\Downloads\gemov1(1)\gemov1\gemov1\bin\Debug\gemov1.pdb
+C:\Users\HP\Downloads\gemov1(1)\gemov1\gemov1\bin\Debug\MySql.Data.dll
+C:\Users\HP\Downloads\gemov1(1)\gemov1\gemov1\bin\Debug\Interop.WMPLib.dll
+C:\Users\HP\Downloads\gemov1(1)\gemov1\gemov1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\HP\Downloads\gemov1(1)\gemov1\gemov1\bin\Debug\Guna.UI.dll
+C:\Users\HP\Downloads\gemov1(1)\gemov1\gemov1\obj\Debug\gemov1.Form2.resources
+C:\Users\HP\Downloads\gemov1(1)\gemov1\gemov1\bin\Debug\BCrypt.Net.dll
+C:\Users\HP\Downloads\gemov1(1)\gemov1\gemov1\bin\Debug\BCrypt.Net.xml
+D:\gemov1(1)\gemov1\gemov1\bin\Debug\gemov1.exe.config
+D:\gemov1(1)\gemov1\gemov1\obj\Debug\Interop.WMPLib.dll
+D:\gemov1(1)\gemov1\gemov1\obj\Debug\AxInterop.WMPLib.dll
+D:\gemov1(1)\gemov1\gemov1\obj\Debug\gemov1.csproj.ResolveComReference.cache
+D:\gemov1(1)\gemov1\gemov1\obj\Debug\gemov1.exe
+D:\gemov1(1)\gemov1\gemov1\obj\Debug\gemov1.pdb
+D:\gemov1(1)\gemov1\gemov1\bin\Debug\gemov1.exe
+D:\gemov1(1)\gemov1\gemov1\bin\Debug\gemov1.pdb
+D:\gemov1(1)\gemov1\gemov1\bin\Debug\BCrypt.Net.dll
+D:\gemov1(1)\gemov1\gemov1\bin\Debug\BCrypt.Net.xml
+D:\gemov1(1)\gemov1\gemov1\bin\Debug\Interop.WMPLib.dll
+D:\gemov1(1)\gemov1\gemov1\bin\Debug\AxInterop.WMPLib.dll
+D:\gemov1(1)\gemov1\gemov1\obj\Debug\gemov1.csprojResolveAssemblyReference.cache
+D:\gemov1(1)\gemov1\gemov1\obj\Debug\gemov1.Form1.resources
+D:\gemov1(1)\gemov1\gemov1\obj\Debug\gemov1.Form2.resources
+D:\gemov1(1)\gemov1\gemov1\obj\Debug\gemov1.Properties.Resources.resources
+D:\gemov1(1)\gemov1\gemov1\obj\Debug\gemov1.csproj.GenerateResource.Cache
+C:\Users\HP\Desktop\gemovLast\gemov1(1)\gemov1\gemov1\bin\Debug\gemov1.exe.config
+C:\Users\HP\Desktop\gemovLast\gemov1(1)\gemov1\gemov1\obj\Debug\Interop.WMPLib.dll
+C:\Users\HP\Desktop\gemovLast\gemov1(1)\gemov1\gemov1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\HP\Desktop\gemovLast\gemov1(1)\gemov1\gemov1\obj\Debug\gemov1.csproj.ResolveComReference.cache
+C:\Users\HP\Desktop\gemovLast\gemov1(1)\gemov1\gemov1\obj\Debug\gemov1.exe
+C:\Users\HP\Desktop\gemovLast\gemov1(1)\gemov1\gemov1\obj\Debug\gemov1.pdb
+C:\Users\HP\Desktop\gemovLast\gemov1(1)\gemov1\gemov1\obj\Debug\gemov1.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\gemovLast\gemov1(1)\gemov1\gemov1\obj\Debug\gemov1.Form1.resources
+C:\Users\HP\Desktop\gemovLast\gemov1(1)\gemov1\gemov1\obj\Debug\gemov1.Form2.resources
+C:\Users\HP\Desktop\gemovLast\gemov1(1)\gemov1\gemov1\obj\Debug\gemov1.Properties.Resources.resources
+C:\Users\HP\Desktop\gemovLast\gemov1(1)\gemov1\gemov1\obj\Debug\gemov1.csproj.GenerateResource.Cache
+C:\Users\HP\Desktop\gemovLast\gemov1(1)\gemov1\gemov1\bin\Debug\gemov1.exe
+C:\Users\HP\Desktop\gemovLast\gemov1(1)\gemov1\gemov1\bin\Debug\gemov1.pdb
+C:\Users\HP\Desktop\gemovLast\gemov1(1)\gemov1\gemov1\bin\Debug\BCrypt.Net.dll
+C:\Users\HP\Desktop\gemovLast\gemov1(1)\gemov1\gemov1\bin\Debug\MySql.Data.dll
+C:\Users\HP\Desktop\gemovLast\gemov1(1)\gemov1\gemov1\bin\Debug\BCrypt.Net.xml
+C:\Users\HP\Desktop\gemovLast\gemov1(1)\gemov1\gemov1\bin\Debug\Interop.WMPLib.dll
+C:\Users\HP\Desktop\gemovLast\gemov1(1)\gemov1\gemov1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\TAHA\Desktop\gemovLast\gemov1(1)\gemov1\gemov1\bin\Debug\gemov1.exe.config
+C:\Users\TAHA\Desktop\gemovLast\gemov1(1)\gemov1\gemov1\obj\Debug\Interop.WMPLib.dll
+C:\Users\TAHA\Desktop\gemovLast\gemov1(1)\gemov1\gemov1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\TAHA\Desktop\gemovLast\gemov1(1)\gemov1\gemov1\obj\Debug\gemov1.csproj.ResolveComReference.cache
+C:\Users\TAHA\Desktop\gemovLast\gemov1(1)\gemov1\gemov1\obj\Debug\gemov1.exe
+C:\Users\TAHA\Desktop\gemovLast\gemov1(1)\gemov1\gemov1\obj\Debug\gemov1.pdb
+C:\Users\TAHA\Desktop\gemovLast\gemov1(1)\gemov1\gemov1\bin\Debug\gemov1.exe
+C:\Users\TAHA\Desktop\gemovLast\gemov1(1)\gemov1\gemov1\bin\Debug\gemov1.pdb
+C:\Users\TAHA\Desktop\gemovLast\gemov1(1)\gemov1\gemov1\bin\Debug\BCrypt.Net.dll
+C:\Users\TAHA\Desktop\gemovLast\gemov1(1)\gemov1\gemov1\bin\Debug\BCrypt.Net.xml
+C:\Users\TAHA\Desktop\gemovLast\gemov1(1)\gemov1\gemov1\bin\Debug\Interop.WMPLib.dll
+C:\Users\TAHA\Desktop\gemovLast\gemov1(1)\gemov1\gemov1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\TAHA\Desktop\gemovLast\gemov1(1)\gemov1\gemov1\obj\Debug\gemov1.csprojResolveAssemblyReference.cache
+C:\Users\TAHA\Desktop\gemovLast\gemov1(1)\gemov1\gemov1\obj\Debug\gemov1.Form1.resources
+C:\Users\TAHA\Desktop\gemovLast\gemov1(1)\gemov1\gemov1\obj\Debug\gemov1.Form2.resources
+C:\Users\TAHA\Desktop\gemovLast\gemov1(1)\gemov1\gemov1\obj\Debug\gemov1.Properties.Resources.resources
+C:\Users\TAHA\Desktop\gemovLast\gemov1(1)\gemov1\gemov1\obj\Debug\gemov1.csproj.GenerateResource.Cache
+C:\Users\HP\Desktop\gemovLastTaha\gemovLast\gemov1(1)\gemov1\gemov1\bin\Debug\gemov1.exe.config
+C:\Users\HP\Desktop\gemovLastTaha\gemovLast\gemov1(1)\gemov1\gemov1\obj\Debug\Interop.WMPLib.dll
+C:\Users\HP\Desktop\gemovLastTaha\gemovLast\gemov1(1)\gemov1\gemov1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\HP\Desktop\gemovLastTaha\gemovLast\gemov1(1)\gemov1\gemov1\obj\Debug\gemov1.csproj.ResolveComReference.cache
+C:\Users\HP\Desktop\gemovLastTaha\gemovLast\gemov1(1)\gemov1\gemov1\obj\Debug\gemov1.exe
+C:\Users\HP\Desktop\gemovLastTaha\gemovLast\gemov1(1)\gemov1\gemov1\obj\Debug\gemov1.pdb
+C:\Users\HP\Desktop\gemovLastTaha\gemovLast\gemov1(1)\gemov1\gemov1\obj\Debug\gemov1.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\gemovLastTaha\gemovLast\gemov1(1)\gemov1\gemov1\obj\Debug\gemov1.Form1.resources
+C:\Users\HP\Desktop\gemovLastTaha\gemovLast\gemov1(1)\gemov1\gemov1\obj\Debug\gemov1.Form2.resources
+C:\Users\HP\Desktop\gemovLastTaha\gemovLast\gemov1(1)\gemov1\gemov1\obj\Debug\gemov1.Properties.Resources.resources
+C:\Users\HP\Desktop\gemovLastTaha\gemovLast\gemov1(1)\gemov1\gemov1\obj\Debug\gemov1.csproj.GenerateResource.Cache
+C:\Users\HP\Desktop\gemovLastTaha\gemovLast\gemov1(1)\gemov1\gemov1\bin\Debug\gemov1.exe
+C:\Users\HP\Desktop\gemovLastTaha\gemovLast\gemov1(1)\gemov1\gemov1\bin\Debug\gemov1.pdb
+C:\Users\HP\Desktop\gemovLastTaha\gemovLast\gemov1(1)\gemov1\gemov1\bin\Debug\BCrypt.Net.dll
+C:\Users\HP\Desktop\gemovLastTaha\gemovLast\gemov1(1)\gemov1\gemov1\bin\Debug\MySql.Data.dll
+C:\Users\HP\Desktop\gemovLastTaha\gemovLast\gemov1(1)\gemov1\gemov1\bin\Debug\BCrypt.Net.xml
+C:\Users\HP\Desktop\gemovLastTaha\gemovLast\gemov1(1)\gemov1\gemov1\bin\Debug\Interop.WMPLib.dll
+C:\Users\HP\Desktop\gemovLastTaha\gemovLast\gemov1(1)\gemov1\gemov1\bin\Debug\AxInterop.WMPLib.dll
